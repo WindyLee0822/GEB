@@ -2,6 +2,9 @@
 
 # General Exploratory Bonus for Optimistic Exploration in RLHF
 
+
+[![Paper](https://img.shields.io/badge/Paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/pdf/2510.03269) [![Github](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WindyLee0822/GEB) [![Hugging Face Collection](https://img.shields.io/badge/Models-fcd022?style=for-the-badge&logo=huggingface&logoColor=000)](https://huggingface.co/collections/Windy0822/geb)
+
 </div>
 
 ## Introduction
