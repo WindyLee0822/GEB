@@ -58,3 +58,16 @@ python generation/generate_eval_test.py --model_name_or_path MODEL_NAME --output
 
 accelerate launch --main_process_port 29710 evaluation/check_win_rate.py --data_name test --model_name FILE_NAME
 
+## Citation
+
+We now have a paper you can cite:
+
+```bibtex
+@article{li2025general,
+  title={General Exploratory Bonus for Optimistic Exploration in RLHF},
+  author={Li, Wendi and Oh, Changdae and Li, Yixuan},
+  journal={arXiv preprint arXiv:2510.03269},
+  year={2025}
+}
+```
+
